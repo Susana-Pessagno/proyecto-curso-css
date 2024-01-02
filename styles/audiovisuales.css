@@ -1,0 +1,32 @@
+video{
+    padding: 10px;
+    max-width: 80%;  
+}
+
+.centrado{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 90px;
+}
+
+.galeria{
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 50vw ;
+    size: 33vw;
+    
+  
+   
+}
+div.galeria img{
+   width: 100%;
+   height: auto ;
+}
+.description{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+    
+}
